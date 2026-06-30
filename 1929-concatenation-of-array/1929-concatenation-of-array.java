@@ -1,17 +1,13 @@
 class Solution {
     public int[] getConcatenation(int[] nums) {
-        ArrayList<Integer> arr = new ArrayList<>();
+        int[] ans = new int[2 * nums.length];
         for(int i = 0; i < nums.length; i++){
-            arr.add(nums[i]);
+            ans[i] = nums[i];
         }
         for(int i = 0; i < nums.length; i++){
-            arr.add(nums[i]);
+            ans[nums.length + i] = nums[i];
         }
-        int[] ans = new int[arr.size()];
-        for(int i = 0; i < arr.size(); i++){
-            ans[i] = arr.get(i);
-        }
-        
+       
         return ans;
 
     }
