@@ -5,8 +5,8 @@ class Solution {
         int lsum = 0, rsum = 0;
         for(int i = 0; i <= k - 1; i++){
             lsum += cardPoints[i];
-            maxSum = lsum;
         }
+         maxSum = lsum;
        
         int rIdx = n - 1;
         for(int i = k - 1; i >= 0; i--){
