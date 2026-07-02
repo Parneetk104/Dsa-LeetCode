@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0485-max-consecutive-ones](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0643-maximum-average-subarray-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0713-subarray-product-less-than-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
 |  |
@@ -66,11 +68,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Binary Search
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 ## Hash Table
 |  |
 | ------- |
