@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [2401-longest-nice-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Math
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [2401-longest-nice-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0049-group-anagrams) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2401-longest-nice-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2401-longest-nice-subarray) |
 <!---LeetCode Topics End-->
