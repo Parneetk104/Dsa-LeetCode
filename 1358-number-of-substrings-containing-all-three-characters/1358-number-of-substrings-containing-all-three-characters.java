@@ -3,7 +3,27 @@ class Solution {
         int n = s.length();
         int l = 0;
         int count= 0;
-        Map<Character, Integer> map = new HashMap<>();
+        int[] freq = new int[3];
+        for(int r = 0; r < s.length(); r++){
+            char ch = s.charAt(r);
+            freq[ch - 'a']++;
+            while(freq[0] >= 1 && freq[1] >= 1 && freq[2] >= 1){
+                count += (n - r);
+                freq[s.charAt(l) - 'a']--;
+                l++;
+            }
+        }
+        return count;
+        
+        
+
+    }
+}
+
+
+
+/*
+Map<Character, Integer> map = new HashMap<>();
         for(int r = 0; r <  n; r++){
             char ch = s.charAt(r);
             map.put(ch, map.getOrDefault(ch, 0) + 1);
@@ -20,8 +40,4 @@ class Solution {
                
             }
         }
-        return count;
-        
-
-    }
-}
+        return count*/
