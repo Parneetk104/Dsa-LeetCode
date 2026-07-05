@@ -13,7 +13,7 @@ class Solution {
             
             int changes = (r - l + 1) - maxfreq;
             if(changes > k){
-                freq[Character.toUpperCase(s.charAt(l)) - 'A']--;
+                freq[s.charAt(l) - 'A']--;
                 l++;
             }
             maxlen = Math.max(maxlen, r - l + 1);
