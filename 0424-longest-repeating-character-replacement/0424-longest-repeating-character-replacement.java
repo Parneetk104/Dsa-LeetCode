@@ -11,8 +11,8 @@ class Solution {
             freq[ch - 'A']++;
             maxfreq = Math.max(maxfreq, freq[ch - 'A']);
             
-            int changes = (r - l + 1) - maxfreq;
-            if(changes > k){
+           // int changes = ;
+            if((r - l + 1) - maxfreq > k){
                 freq[s.charAt(l) - 'A']--;
                 l++;
             }
