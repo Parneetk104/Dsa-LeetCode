@@ -9,8 +9,8 @@ class Solution {
             freq[ch - 'a']++;
             while(freq[0] >= 1 && freq[1] >= 1 && freq[2] >= 1){
                 count += (n - r);
-                freq[s.charAt(l) - 'a']--;
-                l++;
+                freq[s.charAt(l++) - 'a']--;
+                
             }
         }
         return count;
