@@ -7,7 +7,7 @@ class Solution {
         for(int r = 0; r < s.length(); r++){
             char ch = s.charAt(r);
             freq[ch - 'a']++;
-            while(freq[0] >= 1 && freq[1] >= 1 && freq[2] >= 1){
+            while(freq[0] > 0 && freq[1] > 0 && freq[2] > 0){
                 count += (n - r);
                 freq[s.charAt(l++) - 'a']--;
                 
