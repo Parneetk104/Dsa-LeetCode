@@ -1,24 +1,27 @@
 class Solution {
     public int numberOfSubarrays(int[] nums, int k) {
-        Map<Integer, Integer> map = new HashMap<>();
-        map.put(0, 1);
         int n = nums.length;
+        int ans = 0;
         int count = 0;
-        int prefixSum = 0;
-        int oddprefixSum = 0;
-        for(int i = 0; i < n; i++){
-            if(nums[i] % 2 == 1){
-                oddprefixSum++;
-            }else {
-                oddprefixSum+=0;
+        int l = 0;
+        int oddcount = 0;
+        for(int r = 0; r < n; r++){
+            if(nums[r] % 2 == 1){
+                oddcount++;
+                count = 0;
             }
-            if(map.containsKey(oddprefixSum - k)){
-                count += map.get(oddprefixSum - k);
+            while(oddcount == k){
+                count++;
+                if(nums[l] % 2 == 1){
+                    oddcount--;
+                }
+                l++;
             }
-            map.put(oddprefixSum, map.getOrDefault(oddprefixSum, 0) + 1);
+            ans += count;
+            
            
         }
-        return count;
+        return ans;
 
     }
 }
