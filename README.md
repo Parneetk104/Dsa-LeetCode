@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0283-move-zeroes) |
 | [0567-permutation-in-string](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0567-permutation-in-string) |
+| [0905-sort-array-by-parity](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Sliding Window
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0075-sort-colors) |
+| [0905-sort-array-by-parity](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
