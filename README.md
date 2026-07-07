@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0128-longest-consecutive-sequence) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0283-move-zeroes) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
