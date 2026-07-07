@@ -9,10 +9,10 @@ class Solution {
             prefixSum += nums[i];
             int rem = prefixSum % k;
             if(rem < 0) rem += k;
-            if(map.containsKey(rem)){
-                int c = map.getOrDefault(rem, 0);
-                count += c;
-            }
+            
+            int c = map.getOrDefault(rem, 0);
+            count += c;
+            
             map.put(rem, map.getOrDefault(rem, 0) + 1);
         }
         return count;
