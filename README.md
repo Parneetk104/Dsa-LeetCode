@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0119-pascals-triangle-ii) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
