@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0560-subarray-sum-equals-k) |
@@ -161,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0016-3sum-closest) |
 | [0049-group-anagrams](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0075-sort-colors) |
+| [0349-intersection-of-two-arrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 ## Bit Manipulation
