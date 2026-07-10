@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
