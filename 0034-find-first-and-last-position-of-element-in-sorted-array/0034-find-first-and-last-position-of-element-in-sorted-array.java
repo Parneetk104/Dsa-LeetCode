@@ -25,8 +25,6 @@ class Solution {
         res[0] = binarySearch(nums, target, true);
         res[1] = binarySearch(nums, target, false);
         return res;
-       
-        
-        
+         
     }
 }
