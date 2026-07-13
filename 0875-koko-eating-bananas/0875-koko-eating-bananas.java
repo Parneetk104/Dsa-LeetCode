@@ -4,11 +4,7 @@ class Solution {
         for(int pile: piles){
             totalHours += (Math.ceil((double)pile / speed));
         }
-        if(totalHours <= h){
-            return true;
-        }else {
-            return false;
-        }
+        return totalHours <= h;
 
     }
     public int minEatingSpeed(int[] piles, int h) {
