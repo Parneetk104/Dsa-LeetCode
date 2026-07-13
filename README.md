@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0189-rotate-array) |
+| [0367-valid-perfect-square](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0367-valid-perfect-square](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0713-subarray-product-less-than-k) |
