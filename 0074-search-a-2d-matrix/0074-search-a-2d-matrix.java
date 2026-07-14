@@ -5,17 +5,18 @@ class Solution {
         int low = 0;
         int high = rows * cols - 1;
         while(low <= high){
-            int mid = low + (high - low) /2;
-            int row = mid/cols;
+            int mid = low + (high - low)/2;
+            int row = mid / cols;
             int col = mid % cols;
             if(matrix[row][col] == target){
                 return true;
-            }else if(target > matrix[row][col]){
-                low = mid + 1;
-            }else {
+            }else if(matrix[row][col] > target){
                 high = mid - 1;
+            }else {
+                low = mid + 1;
             }
         }
         return false;
+
     }
 }
