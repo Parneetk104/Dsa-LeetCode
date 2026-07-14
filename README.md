@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2540-minimum-common-value](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 ## Hash Table
