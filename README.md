@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
 |  |
 | ------- |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Matrix
 |  |
 | ------- |
