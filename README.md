@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
