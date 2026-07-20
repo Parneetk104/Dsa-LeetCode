@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0567-permutation-in-string) |
+| [0686-repeated-string-match](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0686-repeated-string-match) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2129-capitalize-the-title](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2129-capitalize-the-title) |
 ## Sorting
@@ -306,4 +307,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0686-repeated-string-match](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
