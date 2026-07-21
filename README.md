@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0567-permutation-in-string) |
+| [0771-jewels-and-stones](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0567-permutation-in-string) |
 | [0686-repeated-string-match](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0686-repeated-string-match) |
+| [0771-jewels-and-stones](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0771-jewels-and-stones) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2129-capitalize-the-title](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2129-capitalize-the-title) |
 ## Sorting
