@@ -1,26 +1,26 @@
 class Solution {
-    public Boolean Palindrome(String s, int l, int r){
-        while(l < r){
-            if(s.charAt(l) != s.charAt(r)){
-                return false;
-            }
-            l++;
-            r--;
+    int start = 0;
+    int maxlen = 0;
+    private void expandAround(String s, int left, int right){
+        while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
+            left--;
+            right++;
         }
-        return true;
+        int len = right - left - 1;
+        if(len > maxlen){
+            maxlen = len;
+            start = left + 1;
+        }
+        
     }
     public String longestPalindrome(String s) {
-        String ans ="";
         for(int i = 0; i < s.length(); i++){
-            for(int j = i; j < s.length(); j++){
-                if(Palindrome(s, i, j)){
-                    int len = j - i + 1;
-                    if(len > ans.length()){
-                        ans = s.substring(i, j + 1);
-                    }
-                }
-            }
+            //try even and odd based expansions
+            expandAround(s, i, i);
+            expandAround(s, i, i+1);
+
         }
-        return ans;
+        return s.substring(start, start + maxlen);
+
     }
 }
