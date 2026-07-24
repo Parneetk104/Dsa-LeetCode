@@ -315,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0155-min-stack) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -350,4 +351,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0451-sort-characters-by-frequency) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
