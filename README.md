@@ -331,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0061-rotate-list) |
+| [0203-remove-linked-list-elements](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -357,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0155-min-stack) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
