@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0119-pascals-triangle-ii) |
 | [0131-palindrome-partitioning](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0131-palindrome-partitioning) |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0134-gas-station) |
 | [0409-longest-palindrome](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0409-longest-palindrome) |
 | [0410-split-array-largest-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0410-split-array-largest-sum) |
