@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [0976-largest-perimeter-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0992-subarrays-with-k-different-integers](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0367-valid-perfect-square) |
 | [0523-continuous-subarray-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0976-largest-perimeter-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
+| [0976-largest-perimeter-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
@@ -357,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Stack
 |  |
@@ -440,4 +444,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
