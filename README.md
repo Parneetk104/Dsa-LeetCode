@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0860-lemonade-change](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0875-koko-eating-bananas) |
 | [0890-find-and-replace-pattern](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0904-fruit-into-baskets](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0904-fruit-into-baskets) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [0860-lemonade-change](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1710-maximum-units-on-a-truck](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 ## Stack
