@@ -454,4 +454,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0976-largest-perimeter-triangle) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
