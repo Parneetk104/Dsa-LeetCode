@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [0686-repeated-string-match](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0686-repeated-string-match) |
 | [0771-jewels-and-stones](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0771-jewels-and-stones) |
+| [0856-score-of-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0917-reverse-only-letters) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -385,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0155-min-stack) |
+| [0856-score-of-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0856-score-of-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -484,4 +486,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0020-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
