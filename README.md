@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2000-reverse-prefix-of-word](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [2000-reverse-prefix-of-word](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2129-capitalize-the-title) |
 | [3163-string-compression-iii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3163-string-compression-iii) |
 ## Sorting
@@ -397,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0503-next-greater-element-ii) |
 | [0856-score-of-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2000-reverse-prefix-of-word](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 ## Monotonic Stack
 |  |
 | ------- |
