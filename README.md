@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1710-maximum-units-on-a-truck](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1678-goal-parser-interpretation) |
 | [2000-reverse-prefix-of-word](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2129-capitalize-the-title) |
