@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0146-lru-cache) |
 | [0205-isomorphic-strings](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0347-top-k-frequent-elements) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0146-lru-cache) |
 | [0203-remove-linked-list-elements](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Divide and Conquer
 |  |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0155-min-stack) |
 ## Recursion
 |  |
@@ -537,4 +540,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
