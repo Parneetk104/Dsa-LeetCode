@@ -5,6 +5,7 @@ class Solution {
             int diff = target - nums[i];
             if(map.containsKey(diff)){
               //Array initializer 
+              //int[] ans = {0, 1}
                 int[] ans = {map.get(diff), i};
                 return ans;
             }
