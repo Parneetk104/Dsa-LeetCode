@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2129-capitalize-the-title) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3163-string-compression-iii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3163-string-compression-iii) |
 ## Sorting
 |  |
