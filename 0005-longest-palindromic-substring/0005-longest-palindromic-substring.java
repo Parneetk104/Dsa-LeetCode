@@ -5,7 +5,7 @@ class Solution {
         while(left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)){
             left--;
             right++;
-        }
+        } 
         int len = right - left - 1;
         if(len > maxlen){
             maxlen = len;
