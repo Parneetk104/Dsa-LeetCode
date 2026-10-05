@@ -616,4 +616,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
