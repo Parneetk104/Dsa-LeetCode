@@ -1,26 +1,28 @@
 class Solution {
-    public int Paths(int i, int j, int[][] matrix, int[][] dp){
-        
-        if(j < 0 || j >= matrix[0].length) return 100000000;
-        if(i == 0) return matrix[i][j];
-        if(dp[i][j] != Integer.MAX_VALUE) return dp[i][j];
-       
-        int downL = matrix[i][j] + Paths(i - 1, j - 1, matrix, dp);
-         int down = matrix[i][j] + Paths(i - 1, j, matrix, dp);
-        int downR = matrix[i][j] + Paths(i - 1, j + 1, matrix, dp);
-
-        dp[i][j] = Math.min(down, Math.min(downL, downR));
-        return dp[i][j];
-    }
-
     public int minFallingPathSum(int[][] matrix) {
-        int[][] dp = new int[matrix.length][matrix[0].length];
-        for(int[] row: dp){
-            Arrays.fill(row, Integer.MAX_VALUE);
+        int n = matrix.length;
+        int m = matrix[0].length;
+        int[][] dp = new int[n][m];
+        for(int j = 0; j < m; j++){
+            dp[0][j] = matrix[0][j];
+        }
+        for(int i = 1; i < n; i++){
+            for(int j = 0; j < m; j++){
+                int down = 1000000000, downL = 1000000000, downR = 1000000000;
+                
+                down = matrix[i][j] + dp[i - 1][j];
+                if(j > 0){
+                    downL = matrix[i][j] + dp[i - 1][j - 1];
+                }
+                if(j < m - 1) {
+                    downR = matrix[i][j] + dp[i - 1][j + 1];
+                }
+                dp[i][j] = Math.min(down, Math.min(downL, downR));
+            }
         }
         int ans = Integer.MAX_VALUE;
-        for(int c = 0; c < matrix[0].length; c++){
-            ans = Math.min(ans, Paths(matrix.length - 1, c, matrix, dp));
+        for(int j = 0; j < m; j++){
+            ans = Math.min(ans, (dp[n - 1][j]));
         }
         return ans;
     }
