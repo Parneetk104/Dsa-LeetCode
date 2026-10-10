@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Binary Search
 |  |
 | ------- |
