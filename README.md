@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2446-determine-if-two-events-have-conflict](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Manacher
 |  |
