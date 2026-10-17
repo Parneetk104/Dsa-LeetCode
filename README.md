@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3701-compute-alternating-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Math
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3701-compute-alternating-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
