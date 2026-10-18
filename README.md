@@ -415,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1859-sorting-the-sentence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2129-capitalize-the-title) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1710-maximum-units-on-a-truck) |
+| [1859-sorting-the-sentence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -668,4 +670,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0322-coin-change) |
+## Bubble Sort
+|  |
+| ------- |
+| [1859-sorting-the-sentence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1859-sorting-the-sentence) |
 <!---LeetCode Topics End-->
