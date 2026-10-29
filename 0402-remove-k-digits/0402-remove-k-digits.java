@@ -9,8 +9,8 @@ class Solution {
                 st.pop();
                 k--;
             }
-            st.push(ch);
 
+            st.push(ch);
         }
         while(k > 0){
             st.pop();
@@ -21,8 +21,8 @@ class Solution {
         }
         sb.reverse();
         String res = sb.toString();
-        res = res.replaceFirst("^0+", ""); 
-        if (res.isEmpty()) {
+        res = res.replaceFirst("^0+", "");
+        if(res.isEmpty()){
             return "0";
         }
         return res;
