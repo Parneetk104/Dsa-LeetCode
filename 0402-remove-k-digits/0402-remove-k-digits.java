@@ -9,7 +9,6 @@ class Solution {
                 st.pop();
                 k--;
             }
-
             st.push(ch);
         }
         while(k > 0){
