@@ -4,16 +4,13 @@ class Solution {
         int start = 0, end = 0;
         int maxIdx = 0;
         while(start < nums.length - 1){
-            maxIdx = Math.max(maxIdx, start + nums[start]);
+            maxIdx = Math.max(maxIdx, start  + nums[start]);
             if(start == end){
                 jumps++;
-                end = maxIdx;
-                
+                end= maxIdx;
             }
             start++;
-           
         }
         return jumps;
-        
     }
 }
