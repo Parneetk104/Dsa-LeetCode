@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0746-min-cost-climbing-stairs) |
 | [0907-sum-of-subarray-minimums](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0907-sum-of-subarray-minimums) |
 | [0931-minimum-falling-path-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0931-minimum-falling-path-sum) |
+| [1143-longest-common-subsequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1143-longest-common-subsequence) |
 ## Simulation
 |  |
 | ------- |
@@ -423,6 +424,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0856-score-of-parentheses) |
 | [0890-find-and-replace-pattern](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0890-find-and-replace-pattern) |
 | [0917-reverse-only-letters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0917-reverse-only-letters) |
+| [1143-longest-common-subsequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1143-longest-common-subsequence) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1446-consecutive-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -697,4 +699,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0881-boats-to-save-people) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
