@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0518-coin-change-ii) |
 | [0646-maximum-length-of-pair-chain](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0647-palindromic-substrings) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0459-repeated-substring-pattern) |
+| [0516-longest-palindromic-subsequence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0520-detect-capital) |
 | [0567-permutation-in-string](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0647-palindromic-substrings) |
