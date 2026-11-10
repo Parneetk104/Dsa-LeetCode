@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0057-insert-interval) |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0022-generate-parentheses) |
+| [0051-n-queens](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0494-target-sum) |
 ## Floyd's Cycle Finding Algorithm
@@ -732,4 +734,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
