@@ -2,37 +2,29 @@ class Solution {
     public boolean isMatch(String s, String p) {
         int n = s.length();
         int m = p.length();
-        int[][] dp = new int[n + 1][m + 1];
-        for(int[] row: dp){
-            Arrays.fill(row, -1);
+        boolean[][] dp = new boolean[n + 1][m + 1];
+        
+        dp[0][0] = true;
+        
+        //An empty string can match a pattern only if every character in that pattern is *.
+        for(int j = 1; j <= m; j++){
+            dp[0][j] = dp[0][j - 1] && p.charAt(j - 1) == '*';
         }
-        return solve(n - 1, m - 1, s,  p, dp);
-    }
 
-    public boolean solve(int i , int j, String s, String p, int[][] dp){
-        if(i < 0 && j < 0) return true;
-        if(j < 0) return false;
-        if(i < 0) {
-            for(int k = 0; k <= j; k++){
-                if(p.charAt(k) != '*') return false;
+        for(int i = 1; i <= n; i++){
+            for(int j = 1; j <= m; j++){
+                if(s.charAt(i - 1) == p.charAt(j - 1) || p.charAt(j - 1) == '?'){
+                    dp[i][j] = dp[i - 1][j - 1];
+                }
+                else if(p.charAt(j - 1) == '*'){
+                    dp[i][j] = dp[i][j - 1] || dp[i - 1][j];
+                }else {
+                    dp[i][j] = false;
+                }
             }
-            return true;
         }
-        if(dp[i][j] != -1) return dp[i][j] == 1;
-         boolean ans;
-        if(s.charAt(i) == p.charAt(j) || p.charAt(j) == '?'){
-           ans =  solve(i - 1, j - 1, s, p, dp);
-          
-        }
-        else if(p.charAt(j) == '*'){
-            ans = solve(i, j - 1, s, p, dp) || solve(i - 1, j, s, p, dp);
-        }
-        else {
-            ans = false;
-        }
-
-        dp[i][j] = ans ? 1 : 0;
-
-        return ans;
+        return dp[n][m];
     }
+
+    
 }
