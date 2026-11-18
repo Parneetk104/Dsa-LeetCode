@@ -1,28 +1,21 @@
 class Solution {
     public int maxProfit(int[] prices) {
-        Integer[][] dp = new Integer[prices.length][2];
-        return buySell(0, 1, prices, prices.length, dp);
-    }
-    public int buySell(int i, int canbuy , int[] prices, int n, Integer[][] dp){
-        if(i == n){
-            return 0;
-        }
-        if(dp[i][canbuy] != null){
-            return dp[i][canbuy];
-        }
-        int prof = 0;
-        if(canbuy == 1){
-            //lose money today
-            int buy = -prices[i] + buySell(i + 1, 0, prices, n, dp);
-            //dont lose money
-            int notbuy = buySell(i + 1, 1, prices, n, dp);
-            prof = Math.max(buy, notbuy);
-        }else {
-            int sell = prices[i] + buySell(i + 1, 1, prices, n, dp);
-            int hold = buySell(i + 1, 0, prices, n, dp);
-            prof = Math.max(sell, hold);
-        }
-        return dp[i][canbuy] = prof;
+        int n = prices.length;
+        int[][] dp = new int[prices.length + 1][2];
+        // dp[n][0] = 0;
+        // dp[n][1] = 0;
 
+        for(int i = n - 1; i >= 0; i--){
+            int buy = -prices[i] + dp[i + 1][0];
+            int notbuy = dp[i+1][1];
+            dp[i][1] = Math.max(buy, notbuy);
+
+            int sell = prices[i] + dp[i+1][1];
+            int hold = dp[i+1][0];
+            dp[i][0] = Math.max(sell, hold);
+        } 
+         return dp[0][1];
+        
     }
+    
 }
