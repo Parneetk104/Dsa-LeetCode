@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3285-find-indices-of-stable-mountains](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3285-find-indices-of-stable-mountains) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3701-compute-alternating-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3208-alternating-groups-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2221-find-triangular-sum-of-an-array) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Matrix
@@ -721,6 +725,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Manacher
 |  |
 | ------- |
