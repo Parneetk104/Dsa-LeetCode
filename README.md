@@ -237,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1763-longest-nice-substring](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1763-longest-nice-substring) |
 | [2401-longest-nice-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3208-alternating-groups-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3208-alternating-groups-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1512-number-of-good-pairs](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1763-longest-nice-substring](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1763-longest-nice-substring) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -480,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1678-goal-parser-interpretation](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1678-goal-parser-interpretation) |
+| [1763-longest-nice-substring](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1763-longest-nice-substring) |
 | [1859-sorting-the-sentence](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1859-sorting-the-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2000-reverse-prefix-of-word) |
 | [2129-capitalize-the-title](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2129-capitalize-the-title) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0389-find-the-difference) |
+| [1763-longest-nice-substring](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1763-longest-nice-substring) |
 | [2401-longest-nice-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2401-longest-nice-subarray) |
 ## Counting
 |  |
@@ -612,6 +616,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1763-longest-nice-substring](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1763-longest-nice-substring) |
 ## Queue
 |  |
 | ------- |
