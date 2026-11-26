@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1763-longest-nice-substring](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/1763-longest-nice-substring) |
 | [2401-longest-nice-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3208-alternating-groups-ii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3208-alternating-groups-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2540-minimum-common-value](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2540-minimum-common-value) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Union-Find
 |  |
@@ -490,6 +492,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2942-find-words-containing-character](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/2942-find-words-containing-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3163-string-compression-iii](https://github.com/Parneetk104/Dsa-LeetCode/tree/master/3163-string-compression-iii) |
 ## Sorting
