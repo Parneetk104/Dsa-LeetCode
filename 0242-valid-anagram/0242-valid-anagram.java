@@ -1,14 +1,16 @@
 class Solution {
     public boolean isAnagram(String s, String t) {
         int[] freq = new int[26];
-        for(char ch: s.toCharArray()){
+        for(int i = 0; i < s.length(); i++){
+            char  ch = s.charAt(i);
             freq[ch - 'a']++;
         }
-         for(char ch: t.toCharArray()){
-            freq[ch - 'a']--;
+        for(int j = 0; j < t.length(); j++){
+            char c = t.charAt(j);
+            freq[c - 'a']--;
         }
-        for(int f: freq){
-            if(f != 0) return false;
+        for(int k = 0; k < 26; k++){
+            if(freq[k] != 0) return false;
         }
         return true;
     }
@@ -16,6 +18,7 @@ class Solution {
 
 
 /*
+"The input contains only lowercase English letters, so I can use a fixed-size array of length 26. This gives constant extra space, avoids hashing overhead, and is faster than a HashMap while keeping the same overall time complexity of O(n)."
  HashMap<Character, Integer> freq = new HashMap<>();
 
         if(s.length() != t.length()) return false;
